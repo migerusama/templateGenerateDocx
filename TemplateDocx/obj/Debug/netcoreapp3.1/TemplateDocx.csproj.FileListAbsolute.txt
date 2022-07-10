@@ -1,0 +1,10 @@
+C:\Users\Migeru\source\repos\TemplateDocx\TemplateDocx\obj\Debug\netcoreapp3.1\TemplateDocx.csproj.AssemblyReference.cache
+C:\Users\Migeru\source\repos\TemplateDocx\TemplateDocx\obj\Debug\netcoreapp3.1\TemplateDocx.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Migeru\source\repos\TemplateDocx\TemplateDocx\obj\Debug\netcoreapp3.1\TemplateDocx.AssemblyInfoInputs.cache
+C:\Users\Migeru\source\repos\TemplateDocx\TemplateDocx\obj\Debug\netcoreapp3.1\TemplateDocx.AssemblyInfo.cs
+C:\Users\Migeru\source\repos\TemplateDocx\TemplateDocx\obj\Debug\netcoreapp3.1\TemplateDocx.csproj.CoreCompileInputs.cache
+C:\Users\Migeru\source\repos\TemplateDocx\TemplateDocx\bin\Debug\netcoreapp3.1\TemplateDocx.deps.json
+C:\Users\Migeru\source\repos\TemplateDocx\TemplateDocx\bin\Debug\netcoreapp3.1\TemplateDocx.dll
+C:\Users\Migeru\source\repos\TemplateDocx\TemplateDocx\bin\Debug\netcoreapp3.1\TemplateDocx.pdb
+C:\Users\Migeru\source\repos\TemplateDocx\TemplateDocx\obj\Debug\netcoreapp3.1\TemplateDocx.dll
+C:\Users\Migeru\source\repos\TemplateDocx\TemplateDocx\obj\Debug\netcoreapp3.1\TemplateDocx.pdb
